@@ -1,0 +1,29 @@
+body {
+	background-image: url("../resources/tutorial1.png");
+	background-size: 989px 615px;
+	background-repeat: no-repeat;
+	width: 989px;
+	height: 615px;
+}
+
+.button {
+	background-color: Transparent;
+	border: none;
+    cursor:pointer;
+	position: absolute;
+	outline: none;
+}
+
+#BackBtn {
+	top: 537px;
+	left: 30px;
+	width: 60px;
+	height: 50px;
+}
+
+#ForwardBtn {
+	top: 537px;
+	left: 110px;
+	width: 60px;
+	height: 50px;
+}

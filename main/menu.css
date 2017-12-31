@@ -1,0 +1,195 @@
+body {
+	background-image: url("../resources/menu.png");
+	background-size: 989px 615px;
+	background-repeat: no-repeat;
+	width: 989px;
+	height: 615px;
+}
+
+.button {
+	background-color: Transparent;
+	border: none;
+    cursor:pointer;
+	position: absolute;
+	outline: none;
+}
+
+.play_button {
+	font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+	font-size: 16px;
+	background-color: #BC1622;
+ 	border-style: solid;
+    border-width: 4px;
+    border-color: #666666;
+    border-radius: 5px;
+    cursor:pointer;
+	position: absolute;
+	display: none;
+}
+
+#JogarBtn {
+	top: 299px;
+	left: 356px;
+	width: 280px;
+	height: 80px;
+}
+
+#TutorialBtn { 
+	top: 376px;
+	left: 90px;
+	width: 285px;
+	height: 65px;
+}
+
+#PastaBtn {
+	top: 450px;
+	left: 90px;
+	width: 285px;
+	height: 65px;
+}
+
+#ClassificBtn {
+	top: 520px;
+	left: 95px;
+	width: 285px;
+	height: 65px;
+}
+
+#OpcoesBtn {
+	top: 376px;
+	left: 630px;
+	width: 285px;
+	height: 65px;
+}
+
+#CreditosBtn {
+	top: 450px;
+	left: 630px;
+	width: 285px;
+	height: 65px;
+}
+
+#SairBtn {
+	
+	top: 520px;
+	left: 635px;
+	width: 280px;
+	height: 60px;
+}
+
+#ClassicoBtn {
+	top: 290px;
+	left: 630px;
+	width: 200px;
+	height: 40px;
+}
+
+#CampanhaBtn { 
+	top: 340px;
+	left: 630px;
+	width: 200px;
+	height: 40px;
+}
+
+.sound{
+	background-color: Transparent;
+	border: none;
+    cursor:pointer;
+	position: absolute;
+	outline: none;
+	border-radius: 	5px;
+	width: 30px;
+	height: 30px;
+	font-size: 18px;
+	font-family: Helvetica;
+	font-weight: bold;
+	display: none;
+}
+
+#MusicOffBtn {
+	top: 148px;
+	left: 263px;
+	width: 42px;
+	height: 40px;
+}
+
+#SoundOffBtn { 
+	top: 253px;
+	left: 263px;
+	width: 42px;
+	height: 40px;
+}
+
+#ResetBtn {
+	top: 410px;
+	left: 73px;
+	width: 285px;
+	height: 65px;
+}
+
+#BackBtn {
+	top: 540px;
+	left: 30px;
+	width: 60px;
+	height: 50px;
+}
+
+#plusSound1 {
+	background-color: #656666; 
+	border: none;
+	outline: none;
+	border-radius: 	5px;
+	font-size: 18px;
+	font-family: Helvetica;
+	font-weight: bold;
+	top: 150px;
+	left: 425px;
+}
+
+#plusSound2 {
+	background-color: #656666; 
+	border: none;
+	outline: none;
+	border-radius: 	5px;
+	font-size: 18px;
+	font-family: Helvetica;
+	font-weight: bold;
+	top: 253px;
+	left: 425px;
+}
+
+#minusSound1 {
+	background-color: #656666; 
+	border: none;
+	outline: none;
+	border-radius: 	5px;
+	font-size: 18px;
+	font-family: Helvetica;
+	font-weight: bold;
+	top: 150px;
+	left: 390px;
+}
+
+#minusSound2 {
+	background-color: #656666; 
+	border: none;
+	outline: none;
+	border-radius: 	5px;
+	font-size: 18px;
+	font-family: Helvetica;
+	font-weight: bold;
+	top: 253px;
+	left: 390px;
+}
+
+.radio{	
+	cursor: pointer;
+	width: 50px;
+	height: 50px;
+	display: inline-block;  
+	margin: 35px;  
+	margin-left: -40px;
+	padding: 120px;
+	text-align: left;
+	vertical-align: 5px;
+}
